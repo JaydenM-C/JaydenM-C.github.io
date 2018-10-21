@@ -1,1 +1,1 @@
-![almost](images/janet-almost.jpg)
+![yes](images/janet-yes.jpg)

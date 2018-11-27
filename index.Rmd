@@ -39,12 +39,12 @@ Everything in this paper was done in R. Basically the whole pipeline happened in
 
 # The research question
 
-- Detecting historical signal in phonotactics <br/><br/>
+- Detecting historical signal in phonotactics <br/><br/><br/><br/>
 --
 
-- Why phonotactics?
-  - Easy to obtain (semi-)automatically from wordlists
-  - Historically conservative
+- Why phonotactics? <br/><br/>
+  - Easy to obtain (semi-)automatically from wordlists<br/><br/>
+  - Historically conservative<br/><br/>
 
 ???
 
@@ -58,17 +58,17 @@ We were interested in phonotactics for two reasons: One was that if you have a d
 
 Data:
 
-- Pama-Nyungan language wordlists
-- Coded presence/absence of two-segment sequences in each wordlist
-- Also coded relative frequencies
+- Pama-Nyungan language wordlists<br/><br/>
+- Coded presence/absence of two-segment sequences in each wordlist<br/><br/>
+- Also coded relative frequencies<br/><br/>
 
 --
 
 Test:
 
-- Several statistics to quantify _phylogenetic signal_
-- Takes a tree of languages for reference
-- Quantifies how well the data fits the tree
+- Several statistics to quantify _phylogenetic signal_<br/><br/>
+- Takes a tree of languages for reference<br/><br/>
+- Quantifies how well the data fits the tree<br/><br/>
   - (if it evolved along the tree according to a specific model)
 
 ???
@@ -84,12 +84,12 @@ Then we tested the strength of what's called _phylogenetic signal_. So we took a
 # The _D_ statistic
 
 --
-- _D_ = 1 = randomly dispersed with respect to phylogeny
-- _D_ = 0 = phylogenetic signal
+- _D_ = 1 = randomly dispersed with respect to phylogeny<br/><br/>
+- _D_ = 0 = phylogenetic signal<br/><br/>
 --
 
-- _D_ > 1 = over-dispersed with respect to phylogeny
-- _D_ < 0 = over-clumped with respect to phylogeny
+- _D_ > 1 = over-dispersed with respect to phylogeny<br/><br/>
+- _D_ < 0 = over-clumped with respect to phylogeny<br/><br/>
 
 ???
 
@@ -108,19 +108,19 @@ Then to keep things complicated, you can also get really high _D_ scores where t
 Possible outcomes:
 --
 
-- Over-dispersed (D > 1)
+- Over-dispersed (D > 1)<br/><br/>
 --
 
-- Random (D near 1)
+- Random (D near 1)<br/><br/>
 --
 
-- 0 < D < 1
+- 0 < D < 1<br/><br/>
 --
 
-- Phylogenetic signal (D near 0)
+- Phylogenetic signal (D near 0)<br/><br/>
 --
 
-- Over-clumped (D < 0)
+- Over-clumped (D < 0)<br/><br/>
 
 
 ???
@@ -143,8 +143,8 @@ And finally, indeterminate, where both p values are high, neither null hypothesi
 
 # The visualisation problem
 
-- 415 test outcomes
-- Interest in general patterns overall, not individual test results
+- 415 test outcomes<br/><br/>
+- Interest in general patterns overall, not individual test results<br/><br/>
 
 ???
 

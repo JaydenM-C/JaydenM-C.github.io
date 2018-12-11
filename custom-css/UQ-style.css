@@ -1,0 +1,108 @@
+/* basic font details, including grey links and a small text option */
+body {
+  color: #000000;
+}
+
+h1, h2, h3, h4 {
+  color: #51247A;
+}
+
+a, a > code {
+  color: #999490;
+}
+
+.small-text {
+  font-size: 60%;
+}
+
+.emph-text {
+  color: #962A8B;
+}
+
+.quote-text {
+  font-family: 'Merriweather', serif;
+}
+
+.single-spaced-text {
+  line-height: 1;
+}
+
+.remark-slide-content {
+	font-size: 28px;
+	line-height: 1.5;
+}
+
+.remark-slide-number {
+  font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #51247A;
+}
+
+.centered-text {
+  text-align: center;
+}
+
+/* uq-basic style for body slides */
+.uq-basic {
+  background-color: #ffffff;
+  background-image: url(../imgs/UQ-blankslide.png);
+  background-size: contain;
+  padding-top: 30px;
+  padding-left: 120px;
+  border-bottom: 3px solid  #51247A;
+  box-shadow:  0 5px 0 #F66733;
+}
+
+/* inverse style, good for section breaks */
+.inverse {
+  background-color: #ffffff;
+  background-image: url(../imgs/UQ-titleslide-inverse.png);
+  background-size: contain;
+  color: #ffffff;
+  padding-top: 60px;
+  padding-left: 120px;
+}
+
+.inverse h1, .inverse h2, .inverse h3, .inverse h4 {
+  color: #ffffff;
+}
+
+.inverse a, .inverse a > code {
+  color: #edeae7;
+}
+
+.inverse .remark-slide-number {
+  display: none;
+}
+
+/* uq-title style. light theme */
+.uq-title {
+  background-color: #ffffff;
+  background-image: url(../imgs/UQ-titleslide.png);
+  background-size: contain;
+  color: #51247A;
+}
+
+.uq-title .remark-slide-number {
+  display: none;
+}
+
+/* uq-title-inverse theme. light text on dark purple */
+.uq-title-inverse {
+  background-color: #ffffff;
+  background-image: url(../imgs/UQ-titleslide-inverse.png);
+  background-size: contain;
+  color: #ffffff;
+}
+
+.uq-title-inverse h1, .uq-title-inverse h2, .uq-title-inverse h3, .uq-title-inverse h4 {
+  color: #ffffff;
+}
+
+.uq-title-inverse a, .uq-title-inverse a > code {
+  color: #edeae7;
+}
+
+.uq-title-inverse .remark-slide-number {
+  display: none;
+}

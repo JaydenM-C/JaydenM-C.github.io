@@ -32,3 +32,9 @@ Course coordinator. University of Newcastle, Callaghan campus. [Course handbook]
 **LING3350:** _Structure of English_
 
 Course coordinator. University of Newcastle, Callaghan campus and online. [Course handbook](https://www.newcastle.edu.au/course/LING3350).
+
+### 2021 Semester 1
+
+**LING2010:** _Phonology_
+
+Tutor (temporary). University of Queensland, online. [Course profile](https://course-profiles.uq.edu.au/student_section_loader/section_1/112581). Advanced undergraduate course in phonology, covering classic through to modern, generative approaches to the description and analysis of sound systems in human languages.
